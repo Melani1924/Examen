@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.everis.base.baseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 8.401 s <<< FAILURE! - in com.everis.base.baseTest
+Servicio de Prueba.Consulta del Servicio  Time elapsed: 6.286 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+
+Expected: is <200>
+     but: was <404>
+
+Servicio de Prueba.Consultar si hay un juego para laptop  Time elapsed: 0.064 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: 
+Step [que la aplicación este operativo] is defined with 1 parameters at 'com.everis.base.stepDefinitions.Evalua2SD.queLaAplicaciónEsteOperativo(java.lang.String)'.
+However, the gherkin step has 0 arguments.
+Step text: que la aplicación este operativo
+

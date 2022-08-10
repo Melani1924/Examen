@@ -1,0 +1,8 @@
+com\everis\base\NetflixService.class
+com\everis\base\stepDefinitions\NetflixService.class
+com\everis\base\Hooks\Hooks.class
+com\everis\base\baseTest.class
+EvaluaSD.class
+com\everis\base\ServicioCore.class
+com\everis\base\stepDefinitions\Evalua2SD.class
+com\everis\base\stepDefinitions\ServicioSD.class
